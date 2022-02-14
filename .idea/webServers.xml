@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="0161d164-e601-4307-857d-11ecdc5a64d9" name="MyRemoteServer" url="http://eceterm.uwaterloo.ca">
+        <fileTransfer accessType="SFTP" host="eceubuntu4.uwaterloo.ca" port="22" sshConfigId="6bae41f7-ecde-4c3d-959d-7e4e429cae86" sshConfig="z75feng@eceubuntu4.uwaterloo.ca:22 password">
+          <advancedOptions>
+            <advancedOptions keepAliveTimeout="0" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
